@@ -1,0 +1,16 @@
+fr:
+  links:
+    - blank: false
+      title: Mentions légales
+      url: /mentions-legales/
+    - blank: false
+      title: Plan du site
+      url: /plan-du-site/
+en:
+  links:
+    - blank: false
+      title: Legal mentions
+      url: /en/legal-mentions/
+    - blank: false
+      title: Sitemap
+      url: /en/sitemap/

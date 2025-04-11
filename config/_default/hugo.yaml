@@ -1,0 +1,21 @@
+## LANGUAGE
+defaultContentLanguage: fr
+languageCode: fr
+
+## ADVANCED
+build:
+  writeStats: true
+enableRobotsTXT: true
+imaging:
+  anchor: Smart
+  hint: picture
+  quality: 75
+  resampleFilter: Lanczos
+markup:
+  tableOfContents:
+    ordered: true
+pagination:
+  pagerSize: 9
+removePathAccents: true
+disableHugoGeneratorInject: true
+timeout: 100000
