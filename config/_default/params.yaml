@@ -1,0 +1,49 @@
+_merge: deep
+animation: false
+logo:
+  header: false
+  footer: /assets/images/logo-footer.svg
+hero:
+  cover: 1600x350
+  cover_mobile: 375x200
+
+admin:
+  i18n:
+    default_locale: en
+    locales: '[fr,en,es]'
+  config:
+    id: false
+  collections:
+    config:
+      files:
+        - nav-primary
+        - nav-legal
+        - nav-social
+        - banner
+        - footer
+        - seo
+    indexes:
+      enable: false
+    pages:
+      fields:
+        - is_page
+        - draft
+        - title_page
+        - description
+        - featured_image
+        - hero
+        - blocks
+        - body
+        - slug
+  blocks:
+    enable:
+      - alert
+      - editorial
+      - form
+      - figure
+      - informations
+      - map
+      - pushes
+      - table
+      - testimonials
+      - title

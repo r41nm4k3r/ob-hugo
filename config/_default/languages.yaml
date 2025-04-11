@@ -1,0 +1,13 @@
+fr:
+  languageName: Français
+  title: Le Noailles
+  weight: 2
+
+en:
+  languageName: English
+  title: Old Buoy
+  weight: 1
+# es:
+#   languageName: Español
+#   title: Le Noailles
+#   weight: 3
