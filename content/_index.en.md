@@ -1,6 +1,6 @@
 ---
 isPage: true
-title: Accueil
+title: Old Buoy
 description: Since 1932, Le Noailles has offered a timeless setting and refined
   cuisine in the heart of Bordeaux.
 hero:
