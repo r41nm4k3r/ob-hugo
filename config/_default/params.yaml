@@ -9,7 +9,7 @@ hero:
 
 admin:
   i18n:
-    default_locale: fr
+    default_locale: en
     locales: '[fr,en,es]'
   config:
     id: false
